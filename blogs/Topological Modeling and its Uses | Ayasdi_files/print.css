@@ -1,0 +1,19 @@
+/* Specific styles */
+.supernav,
+.main-nav,
+.superfooter,
+.subfooter ul,
+.video-wrap,
+.video-wrap + figcaption,
+p.more,
+.pointer,
+.feeds .blog,
+.feeds .press,
+.slides-nav,
+.overlay,
+.anchors,
+.bottom h4,
+.button
+ {
+  display: none !important;
+}
